@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: DSL4IP
 description: A Domain Specific Language for Image Processing
-baseurl: "/dsl4ip" # the subpath of your site, e.g. /blog
-imgbaseurl: "/dsl4ip/assets/images/"
+baseurl: "/dsl4ip-docs" # the subpath of your site, e.g. /blog
+imgbaseurl: "/dsl4ip-docs/assets/images/"
 url: "https://woffee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
